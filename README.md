@@ -1,0 +1,2 @@
+# first-git
+basic command
